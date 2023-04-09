@@ -1,17 +1,14 @@
+# 💫 About Me:
+I m currently learning MERN STACK and Andriod Development
 - 👋 Hi, I’m @itsmesuraj20
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning everything which exists on this planet
-- 💞️ I’m looking to collaborate on .....
 - 📫 How to reach me instagram (www.instagram.com/itsmesuraj20)
 
 <!---
 itsmesuraj20/itsmesuraj20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 💫 About Me:
-I m currently learning MERN STACK and Andriod Development
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/cZRuuUCTQp) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/itsmesuraj20) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itsmesuraj20) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsmesuraj20) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Suraj-Singh-7884) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/itsmesuraj2002) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@itsmesuraj20) 
 
