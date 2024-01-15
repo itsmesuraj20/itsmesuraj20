@@ -10,23 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
-- 🔭 I’m currently working on [Sorting Visualizer using Flutter](Very Soon)
 
-- 🌱 I’m currently learning **MERN STACK,KOTLIN,Flutter,MySQL,AWS**
-
-- 👯 I’m looking to collaborate on **Andriod Project**
-
-- 🤝 I’m looking for help with **Dart and kotlin**
-
-- 👨‍💻 All of my projects are available at [github.com/itsmesuraj20](github.com/itsmesuraj20)
-
-- 📝 I regularly write articles on [linkedin.com/in/itsmesuraj20](linkedin.com/in/itsmesuraj20)
-
-- 💬 Ask me about **Flutter ,Javascript**
-
-- 📫 How to reach me **rameshwarsingh99351@gmail.com**
-
-- ⚡ Fun fact **I am an extra introvert but I m working on it**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
