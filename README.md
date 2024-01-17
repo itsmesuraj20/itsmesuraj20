@@ -1,4 +1,4 @@
-![MasterHead](https://i.gifer.com/Difj.gif)
+![MasterHead](https://i.gifer.com/Difj.gif) 
 
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 
