@@ -36,7 +36,7 @@
 <a href="https://www.topcoder.com/members/topcoder.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder.com/itsmesuraj20" height="30" width="40" /></a>
 <a href="/surajsingh.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="surajsingh.me" height="30" width="40" /></a>
 </p>
-
+<br>
 <h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Support:</h3>
