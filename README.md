@@ -20,7 +20,7 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-
+<p>Connect with me on Linkedin -** @itsmesuraj20** </p>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
