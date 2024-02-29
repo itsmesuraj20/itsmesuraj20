@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">I have a expertise in Full Stack Development</h3>
 
-<p align="left"><a href="x.com/itsmesuraj20"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" height="52px" width="52px" alt="itsmesuraj20" />Suraj Singh </a> </p>
+<p align="left"><a href="https://x.com/itsmesuraj20"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" height="52px" width="52px" alt="itsmesuraj20" />Suraj Singh </a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmesuraj20" alt="itsmesuraj20" /></a> </p>
 
