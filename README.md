@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Suraj Singh</h1>
+![image](https://github.com/itsmesuraj20/itsmesuraj20/assets/109140592/b63ea78e-5d4d-4c7d-8094-a498fcdd3fef)<h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">I have a expertise in Full Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmesuraj20&label=Profile%20views&color=0e75b6&style=flat" alt="itsmesuraj20" /> </p>
+<p align="left"> <img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" height="52px" width="52px" alt="itsmesuraj20" /><a href="x.com/itsmesuraj20">Twitter - Suraj Singh </a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmesuraj20" alt="itsmesuraj20" /></a> </p>
 
