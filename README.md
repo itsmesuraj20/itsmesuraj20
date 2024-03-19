@@ -3,7 +3,6 @@
 
 <p align="left"><a href="https://x.com/itsmesuraj20"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" height="52px" width="52px" alt="itsmesuraj20" />Suraj Singh </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmesuraj20" alt="itsmesuraj20" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
