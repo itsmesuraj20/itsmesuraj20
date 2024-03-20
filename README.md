@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">I m newbie in Full Stack Development , but gonna nailed it soon</h3>
 
-<p align="left"><a href="https://x.com/itsmesuraj20"><img src="https://freelogopng.com/images/all_img/1690643591twitter-x-logo-png.png" height="52px" width="52px" alt="itsmesuraj20" />Suraj Singh </a> </p>
 
 
 <p align="left"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
