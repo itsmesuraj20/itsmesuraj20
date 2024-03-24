@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">I m newbie in Full Stack Development , but gonna nailed it soon</h3>
+<h5 align="center">Currently learning React JS and NextJS </h5>
+
 
 
 
