@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript , React JS, Next JS, TypeScript**
 
+
 - 💬 Ask me about **JavaScript , React JS, Next JS, TypeScript**
 
 - 📫 How to reach me **surajsingh.sde@gmail.com**
