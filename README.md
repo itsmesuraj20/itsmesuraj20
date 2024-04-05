@@ -6,7 +6,8 @@
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
 
-- 🔭 I’m currently working on [E-Voting System with Blockchain](soon...)
+- 🔭 I’m currently working on [E-Voting System with Blockchain and Artificial Intelligence](soon...)
+
 
 - 🌱 I’m currently learning **JavaScript , React JS, Next JS, TypeScript**
 
