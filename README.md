@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suraj Singh</h1>
-<h3 align="center">I m newbie in Full Stack Development , but gonna nailed it soon</h3>
-<h5 align="center">Currently learning React JS and NextJS </h5>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
+<h3 align="center">I m MERN+NEXT JS  Full Stack Developer</h3>
+<h5 align="center">Currently learning Blockchain and little bit of Machine Learning</h5>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -18,6 +18,12 @@
 - 💬 Ask me about **JavaScript , React JS, Next JS, TypeScript**
 
 - 📫 How to reach me **surajsingh.sde@gmail.com**
+
+## Coding Profile which focus on Problem Solving only
+
+<img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
