@@ -20,7 +20,16 @@
 - 📫 How to reach me **surajsingh.sde@gmail.com**
 
 ## Coding Profile which focus on Problem Solving only
+<a href="https://www.codechef.com/users/itsmesuraj20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmesuraj20" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsmesuraj20" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itsmesuraj20" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmesuraj20" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 
+
+
+
+## LeetCode Achievements
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" width="40px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="40px"></img>
@@ -36,14 +45,8 @@
 <a href="https://twitter.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/itsmesuraj20" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://www.behance.net/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 <a href="https://medium.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itsmesuraj20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
