@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Suraj Singh</h1>
 <h3 align="center">I m newbie in Full Stack Development , but gonna nailed it soon</h3>
 <h5 align="center">Currently learning React JS and NextJS </h5>
-<div align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" height="300px" width="300px" />
-</div>
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
