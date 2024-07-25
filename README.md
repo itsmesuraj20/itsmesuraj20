@@ -6,10 +6,11 @@
 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
-
 <div align="center">
-- 📫 How to reach me **surajsingh.sde@gmail.com**
+  
+📫 How to reach me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 </div>
+
 
 
 
