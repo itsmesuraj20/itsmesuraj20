@@ -1,6 +1,4 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
-<h3 align="center">I m MERN+NEXT JS  Full Stack Developer</h3>
-<h5 align="center">Currently learning Blockchain and little bit of Machine Learning</h5>
 
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
@@ -9,33 +7,11 @@
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
 
-- 🌱 I’m currently learning **JavaScript , React JS, Next JS, TypeScript**
-
-
-- 💬 Ask me about **JavaScript , React JS, Next JS, TypeScript**
 
 - 📫 How to reach me **surajsingh.sde@gmail.com**
 
 
-### Currently Focussing on
-```
 
- ██████╗ ██████╗ ███████╗███╗   ██╗
-██╔═══██╗██╔══██╗██╔════╝████╗  ██║
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║
-╚██████╔╝██║     ███████╗██║ ╚████║
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝
-
-███████╗ ██████╗ ██╗   ██╗██████╗  ██████╗███████╗
-██╔════╝██╔═══██╗██║   ██║██╔══██╗██╔════╝██╔════╝
-███████╗██║   ██║██║   ██║██████╔╝██║     █████╗
-╚════██║██║   ██║██║   ██║██╔══██╗██║     ██╔══╝
-███████║╚██████╔╝╚██████╔╝██║  ██║╚██████╗███████╗
-╚══════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝╚══════╝
-
-
-```
 
 ## Coding Profile which focus on Problem Solving only
 <a href="https://www.codechef.com/users/itsmesuraj20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itsmesuraj20" height="30" width="40" /></a>
