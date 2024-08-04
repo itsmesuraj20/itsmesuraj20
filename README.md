@@ -8,7 +8,7 @@
 
 <div align="center">
   
-📫 How to reach me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+📫 Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 </div>
 
 
