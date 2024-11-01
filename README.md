@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
+<a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>  
 <a href="https://twitter.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmesuraj20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/itsmesuraj20" height="30" width="40" /></a>
 <a href="https://instagram.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesuraj20" height="30" width="40" /></a>
