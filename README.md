@@ -15,16 +15,32 @@
 
 
 
+<div align="center">
+  <h3>Connect with me:</h3>
+  <p>
+    <a href="https://twitter.com/itsmesuraj20" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmesuraj20" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/itsmesuraj20" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/itsmesuraj20" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://twitter.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/itsmesuraj20" height="30" width="40" /></a>
-<a href="https://instagram.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://medium.com/itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@itsmesuraj20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmesuraj20" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <h3>My Social Media</h3>
+  <p>
+    <a href="https://instagram.com/itsmesuraj20" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesuraj20" height="30" width="40" />
+    </a>
+    <a href="https://medium.com/itsmesuraj20" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="itsmesuraj20" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/@itsmesuraj20" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itsmesuraj20" height="30" width="40" />
+    </a>
+  </p>
+</div>
 
 
 
