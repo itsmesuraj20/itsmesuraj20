@@ -1,3 +1,18 @@
+</div>
+<a href="https://twitter.com/itsmesuraj20" target="__blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?style=social" alt="Twitter"></a>
+<a href="www.linkedin.com/in/itsmesuraj20" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</a>
+<br>
+
+- Senior Associate Software engineer at Genpact , Super curious about Backend Developement and Frontend as well.
+- I enjoy building web applications which impacts real world and solves someone's problem.
+- Primary stack - Java , SpringBoot and Cpp (CP) , Javascript(ES6 , TS), Reactjs, Nextjs, Nodejs, Docker , Kubernetes , PostgreSQL .
+- Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/itsmesuraj20)
+- I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+- Github >>> Twitter or maybe vice versa, who knows :)
+
+
+<!-- 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
 <h1 align="center">Currently @Genpact as a Senior Associate Software Engineer</h1>
 <p align="center">
@@ -67,4 +82,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmesuraj20&show_icons=true&locale=en" alt="itsmesuraj20" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesuraj20&" alt="itsmesuraj20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesuraj20&" alt="itsmesuraj20" /></p> -->
