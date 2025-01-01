@@ -10,7 +10,7 @@
 - Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/itsmesuraj20)
 - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
-- Device I used for Dev - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
+- Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
 
 </div>
 <!-- 
