@@ -11,7 +11,7 @@
 - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
 
-
+</div>
 <!-- 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
 <h1 align="center">Currently @Genpact as a Senior Associate Software Engineer</h1>
