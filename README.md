@@ -4,10 +4,10 @@
 </a>
 <br>
 
-- Senior Associate Software engineer at Genpact , Super curious about Backend Developement and Frontend as well.
-- I enjoy building web applications which impacts real world and solves someone's problem.
-- Primary stack - Java , SpringBoot and Cpp (CP) , Javascript(ES6 , TS), Reactjs, Nextjs, Nodejs, Docker , Kubernetes , PostgreSQL .
-- Internships, Jobs, Tech, projects and shitposting at [Twitter](https://twitter.com/itsmesuraj20)
+- Senior Associate Software engineer at Genpact , Super curious about Backend Developement.
+- Building web applications which impacts real world and solves someone's problem.
+- Primary stack - Java , SpringBoot and Cpp (CP) , Javascript(ES6 , TS), React JS, Next JS, Node JS, Docker , Kubernetes , AWS , PostgreSQL .
+- Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
 - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
