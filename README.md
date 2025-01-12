@@ -13,6 +13,7 @@
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
 - Developer at its peak
 - My EX is my motivation , I m cooked 🔥.......
+- Lets see 2025
 <div class="center" > <a href="https://surajsingh.in">My Website</a> </div>
 
 
