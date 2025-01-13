@@ -11,8 +11,6 @@
 - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
-- Developer at its peak
-- My EX is my motivation , I m cooked 🔥.......
 <div class="center" > <a href="https://surajsingh.in">My Website</a> </div>
 <div class="center"><a href="https://twitter.com/itsmesuraj20">Twitter</a></div>
 <div class="center"><a href="https://instagram.com/itsmesuraj20">Instagram</a></div>
