@@ -17,6 +17,8 @@
 - 2025 , 🔥🔥🔥🔥🔥🔥🔥🔥...........
 <div class="center" > <a href="https://surajsingh.in">My Website</a> </div>
 <div class="center"><a href="https://twitter.com/itsmesuraj20">Twitter</a></div>
+<div class="center"><a href="https://instagram.com/itsmesuraj20">Instagram</a></div>
+
 
 
 
