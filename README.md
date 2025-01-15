@@ -24,7 +24,7 @@
 
 <div class="center" > <a href="https://surajsingh.in">My Website</a> </div>
 <div class="center"><a href="https://twitter.com/itsmesuraj20">Twitter</a></div>
-<div class="center"><a href="https://instagram.com/itsmesuraj20">Instagram</a></div>
+
 
 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
