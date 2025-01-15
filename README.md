@@ -8,16 +8,17 @@
 - Building web applications which impacts real world and solves someone's problem.
 - Primary stack - Java , SpringBoot and Cpp (CP) , Javascript(ES6 , TS), React JS, Next JS, Node JS, Docker , Kubernetes , AWS , PostgreSQL .
 - Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
+
+<div align="center">
+
+<a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+</div>
+
 - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
 
-<div align="center">
 
-
-
-<a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
-</div>
 
 
 
