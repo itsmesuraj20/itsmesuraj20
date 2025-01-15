@@ -13,7 +13,8 @@
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
 
 <div align="center">
-  
+
+
 
 <a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 </div>
