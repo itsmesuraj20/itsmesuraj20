@@ -14,14 +14,14 @@
 <a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 </div>
 
-- I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M3 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
-
+- I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 
 <div align='center'>
   <a href='https://surajsingh.in'>My Website 💀 </a>
 </div>
+
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
 
