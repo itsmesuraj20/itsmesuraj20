@@ -21,7 +21,7 @@
 <br>
 
 <div align='center'>
-  <a href='https://surajsingh.in'>My Website 💀 </a>
+  <a href='https://surajsingh.in'>My Website 🌎 </a>
 </div>
 
 <br>
