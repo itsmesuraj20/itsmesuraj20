@@ -26,7 +26,6 @@
 
 <br>
 
-<p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 
 
 
@@ -36,6 +35,7 @@
 
 </div>
 <!-- 
+<p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
 <h1 align="center">Currently @Genpact as a Senior Associate Software Engineer</h1>
 <p align="center">
