@@ -10,8 +10,14 @@
 
 
 <div align="center">
+	<p align="center">  <a href="https://github.com/itsmesuraj20"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/itsmesuraj20/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/itsmesuraj20/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://medium.com/itsmesuraj20/"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
 
-<a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /></a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+</p>
+  <a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /> 
+  </a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
 </div>
 
 - Github >>> Twitter or maybe vice versa, who knows :)
@@ -25,6 +31,7 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
   - I can help you convert your ideas into SAAS, hit me up at [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+<a href="https://www.facebook.com/itsmesuraj20"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 
 </p>
 - Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
