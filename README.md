@@ -16,8 +16,10 @@
 	<a href="https://medium.com/itsmesuraj20/"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
 
 </p>
-  <a href="mailto:surajsingh.sde@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" /> 
-  </a>   Ping me [surajsingh.sde@gmail.com](mailto:surajsingh.sde@gmail.com)
+ <a href="mailto:surajsingh.sde@gmail.com" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=100&id=6QtoKjRma1Cq&format=png&color=000000" alt="itsmesuraj20" height="40" width="40" />
+  Ping me : <span>surajsingh.sde@gmail.com</span>
+</a>
 </div>
 
 - Github >>> Twitter or maybe vice versa, who knows :)
