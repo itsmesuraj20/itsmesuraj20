@@ -9,7 +9,6 @@
 - Primary stack - Java , SpringBoot and CPP (CP) , Javascript(ES6 , TS), React JS, Next JS, Node JS, Docker , Kubernetes , AWS , PostgreSQL
 - Learning and Practicing Backend and trying DSA
 
-
 <div align="center">
 	<p align="center">  <a href="https://github.com/itsmesuraj20"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/itsmesuraj20/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
