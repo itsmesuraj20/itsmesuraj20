@@ -25,7 +25,7 @@
 
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M4 Max 16inch 36GB RAM 1TB SSD 14C 30GPU
-- Shreyashi I miss you ....
+- Shreyashi I miss you -- REST IN PEACE 🥺....
 </div>
 <!-- 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
