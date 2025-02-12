@@ -26,6 +26,7 @@
 - Device I use for Development - M4 Max 16inch 36GB RAM 1TB SSD 14C 32GPU
 - Shreyashi I miss you -- REST IN PEACE 🥺....
 </div>
+
 <!-- 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
