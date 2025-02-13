@@ -27,6 +27,16 @@
 - Shreyashi I miss you -- REST IN PEACE 🥺....
 </div>
 
+## Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing" target="_blank">
+    <img src="https://i.postimg.cc/WbfBcDk0/SWE-Resume-Template-2-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
+  </a>
+</p>
+
+
+
 <!-- 
 <p align="center"> <a href="https://twitter.com/itsmesuraj20" target="blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?logo=twitter&style=for-the-badge" alt="itsmesuraj20" /></a> </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj Singh</h1>
