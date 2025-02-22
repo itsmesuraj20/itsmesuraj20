@@ -26,7 +26,9 @@
 
 - Github >>> Twitter or maybe vice versa, who knows :)
 - Device I use for Development - M4 Max 16inch 36GB RAM 1TB SSD 14C 32GPU
+<!-- 
 - Shreyashi I miss you -- REST IN PEACE 🥺....
+-->
 </div>
 
 <div>
