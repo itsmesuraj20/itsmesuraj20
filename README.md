@@ -6,10 +6,13 @@
 
 
 → Senior Associate Software Engineer at Genpact , Super curious about Backend Developement.
+<br>
 → Building web applications which impacts real world and solves someone's problem.
+<br>
 → Primary stack - Java , SpringBoot and CPP (CP) , Javascript(ES6 , TS), React JS, Next JS, Node JS, Docker , Kubernetes , AWS , PostgreSQL
+<br>
 → Currently Learning Go, DevOps .
-
+<br>
 
 
 <div align="center">
