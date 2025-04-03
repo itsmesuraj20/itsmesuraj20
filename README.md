@@ -40,10 +40,18 @@
 -->
 </div>
 
+<div align="center">
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsmesuraj20)
+</div>
+
 <div>
 <p align="center">
   <strong><h2><a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing">Resume</a></h2></strong>
 </p>
+
+
+
 
 <p align="center">
   <a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing" target="_blank">
