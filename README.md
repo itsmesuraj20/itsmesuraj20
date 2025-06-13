@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing" target="_blank">
-    <img src="https://i.postimg.cc/WbfBcDk0/SWE-Resume-Template-2-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
+    <img src="https://i.postimg.cc/W1KZ4H2z/SURAJ-SINGH-CV-FAANG-1.png" alt="Suraj Singh Resume" width="850px">
   </a>
 </p>
 </div>
