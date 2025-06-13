@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">Add commentMore actions
-  <a href="https://drive.google.com/drive/u/0/folders/1RjyeEFcCKyDnZZhL5QGgSVaiFpS0Ngzx" target="_blank">
+  <a href="https://drive.google.com/file/d/1-9dTeK0RHnd-p4g6ogzzyn678aAwl_VD/view?usp=sharing" target="_blank">
     <img src="https://i.postimg.cc/SNHQYFzB/SURAJ-SINGH-CV-FAANG-1-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
   </a>
 </p>
