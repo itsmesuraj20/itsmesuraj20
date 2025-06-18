@@ -52,12 +52,13 @@
   <strong><h2><a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing">Resume</a></h2></strong>
 </p>
 
-<p align="center">Add commentMore actions
+<p align="center">
   <a href="https://drive.google.com/file/d/1-9dTeK0RHnd-p4g6ogzzyn678aAwl_VD/view?usp=sharing" target="_blank">
     <img src="https://i.postimg.cc/SNHQYFzB/SURAJ-SINGH-CV-FAANG-1-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
   </a>
 </p>
 
+<!--
 - Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
 <h3 align="left">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" height="30" width="40" /></a><a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="30" width="40" /></a>
@@ -118,3 +119,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmesuraj20&show_icons=true&locale=en" alt="itsmesuraj20" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmesuraj20&" alt="itsmesuraj20" /></p> -->
+
