@@ -48,11 +48,11 @@
 
 <div>
 <p align="center">
-  <strong><h2><a href="https://drive.google.com/file/d/16bOZUVnYmgy7n7pcDKqTmFQwvcu53p7c/view?usp=sharing">Resume</a></h2></strong>
+  <strong><h2><a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing">Resume</a></h2></strong>
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1-9dTeK0RHnd-p4g6ogzzyn678aAwl_VD/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing" target="_blank">
     <img src="https://i.postimg.cc/kMsnfdBD/Suraj-Singh-Resume-2025-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
   </a>
 </p>
