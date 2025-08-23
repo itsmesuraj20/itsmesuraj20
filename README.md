@@ -1,4 +1,4 @@
-
+<!--
 [![Thumbnail for Cover](https://github.com/user-attachments/assets/bd59d6cd-fa07-41eb-bbd5-be7572294a8a)](https://raw.githubusercontent.com/JawherKl/JawherKl/main/devTools.png)
 
 
@@ -40,24 +40,26 @@
 <!-- 
 - Shreyashi I miss you -- REST IN PEACE 🥺....
 -->
-</div>
 
-<div align="center">
+	</div>
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsmesuraj20)
-</div>
+	<div align="center">
 
-<div>
-<p align="center">
-  <strong><h2><a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing">Resume</a></h2></strong>
-</p>
+	![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsmesuraj20)
+	</div>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing" target="_blank">
+	<div>
+	<p align="center">
+  	<strong><h2><a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing">Resume</a></h2></strong>
+	</p>
+
+	<p align="center">
+  	<a href="https://drive.google.com/file/d/1A3PaHcWbUs2nBAEYbkfVy9isYS8rE-uu/view?usp=sharing" target="_blank">
     <img src="https://i.postimg.cc/kMsnfdBD/Suraj-Singh-Resume-2025-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
-  </a>
-</p>
+  	</a>
+	</p>
 
+ 	-->
 <!--
 - Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
 <h3 align="left">Languages and Tools:</h3>
