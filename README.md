@@ -41,6 +41,7 @@
 - Shreyashi I miss you -- REST IN PEACE 🥺....
 -->
 
+<!--
 	</div>
 
 	<div align="center">
@@ -58,8 +59,7 @@
     <img src="https://i.postimg.cc/kMsnfdBD/Suraj-Singh-Resume-2025-page-0001.jpg" alt="Suraj Singh Resume" width="850px">
   	</a>
 	</p>
-
- 	-->
+-->
 <!--
 - Internships, Jobs, Tech, projects and more at [Twitter](https://twitter.com/itsmesuraj20)
 <h3 align="left">Languages and Tools:</h3>
