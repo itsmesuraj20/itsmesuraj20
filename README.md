@@ -1,7 +1,23 @@
+
 <div align="center">
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsmesuraj20)
 	</div>
+
+### WHO I AM 
+- Software Engineer @Genpact in Noida  
+- 1.2 year backend development experience  
+- Stack: Java, Spring Boot, Go, Redis, Kafka, Docker, Kubernetes, AWS  
+- Focus: backend systems, distributed systems, DevOps pipelines  
+- Learning: Go, Docker, Kubernetes, Kafka, System Design  
+- Building full-stack + DevOps + AI-enabled products  
+- Prior freelance web development experience  
+- Strengths: clean code, scalable architecture, deployment automation  
+- Deploying and maintaining production apps  
+- Available for **interviews**;
+  
+
+
 
 <!--
 [![Thumbnail for Cover](https://github.com/user-attachments/assets/bd59d6cd-fa07-41eb-bbd5-be7572294a8a)](https://raw.githubusercontent.com/JawherKl/JawherKl/main/devTools.png)
