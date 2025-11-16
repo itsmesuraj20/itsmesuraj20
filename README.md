@@ -5,7 +5,7 @@
 	</div>
 
 ### WHO I AM 
-- Software Engineer @Genpact in Noida  
+- Software Engineer @Genpact -> Postman in Noida -> Remote
 - 1.2 year backend development experience  
 - Stack: Java, Spring Boot, Go, Redis, Kafka, Docker, Kubernetes, AWS  
 - Focus: backend systems, distributed systems, DevOps pipelines  
