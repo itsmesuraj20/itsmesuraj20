@@ -7,7 +7,6 @@
 ### WHO I AM 
 - Software Engineer @Genpact in Noida
 - 1.3+ year backend development experience  
-
 - Focus: backend systems, distributed systems, DevOps pipelines  
 - Learning: Go, Docker, Kubernetes, Kafka, System Design  
 - Building full-stack + DevOps + AI-enabled products  
