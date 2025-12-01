@@ -5,9 +5,9 @@
 	</div>
 
 ### WHO I AM 
-- Software Engineer @Genpact -> Postman in Noida -> Remote
+- Software Engineer @Genpact in Noida
 - 1.3+ year backend development experience  
-- Stack: Java, Spring Boot, Go, Redis, Kafka, Docker, Kubernetes, AWS  
+
 - Focus: backend systems, distributed systems, DevOps pipelines  
 - Learning: Go, Docker, Kubernetes, Kafka, System Design  
 - Building full-stack + DevOps + AI-enabled products  
@@ -21,7 +21,7 @@
 
 <!--
 [![Thumbnail for Cover](https://github.com/user-attachments/assets/bd59d6cd-fa07-41eb-bbd5-be7572294a8a)](https://raw.githubusercontent.com/JawherKl/JawherKl/main/devTools.png)
-
+- Stack: Java, Spring Boot, Go, Redis, Kafka, Docker, Kubernetes, AWS  
 
 </div>
 <a href="https://twitter.com/itsmesuraj20" target="__blank"><img src="https://img.shields.io/twitter/follow/itsmesuraj20?style=social" alt="Twitter"></a>
