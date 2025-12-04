@@ -12,7 +12,7 @@
 - Building full-stack + DevOps + AI-enabled products  
 - Prior freelance web development experience  
 - Strengths: clean code, scalable architecture, deployment automation  
-- Deploying and maintaining production apps  
+<!-- Deploying and maintaining production apps  -->
 
   
 
