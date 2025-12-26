@@ -6,7 +6,7 @@
 
 <div align="center">
 	
-### WHO I AM 
+### WHAT I DO 
  Software Engineer @Genpact in Noida
  1.3+ year backend development experience  
  Focus: backend systems, distributed systems, DevOps pipelines  
