@@ -8,12 +8,13 @@
 	
 ### WHAT I DO 
  Software Engineer @Genpact in Noida
- 1.3+ year backend development experience  
- Focus: backend systems, distributed systems, DevOps pipelines  
+ 1.4+ year backend development experience  
+ Focus: Backend systems, Distributed systems, DevOps Pipelines  
  Learning: Go, Docker, Kubernetes, Kafka, System Design  
  Building full-stack + DevOps + AI-enabled products  
  Prior freelance web development experience  
  Strengths: clean code, scalable architecture, deployment automation  
+ Learning AI/ML with LangChain , PyNum , and more 
 <!-- Deploying and maintaining production apps  -->
 
 </div>
