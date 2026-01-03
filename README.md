@@ -15,6 +15,7 @@
  Prior freelance web development experience  
  Strengths: clean code, scalable architecture, deployment automation  
  Learning AI/ML with LangChain , PyNum , and more 
+ Youtube : @itsmesuraj20
 <!-- Deploying and maintaining production apps  -->
 
 </div>
