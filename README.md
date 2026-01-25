@@ -35,7 +35,6 @@
 <br>
 
 
-
 → Senior Associate Software Engineer at Genpact , Super curious about Backend Developement.
 <br>
 → Building web applications which impacts real world and solves someone's problem.
