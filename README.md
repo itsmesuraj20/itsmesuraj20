@@ -11,6 +11,7 @@
  1.5+ year backend development experience  
  Focus: Backend systems, Distributed systems, DevOps Pipelines  
  Learning: Go, Docker, Kubernetes, Kafka, System Design  
+ Learning Tools : SAP BASIS , ABAP , GRC
  Building full-stack + DevOps + AI-enabled products  
  Prior freelance web development experience  
  Strengths: clean code, scalable architecture, deployment automation  
