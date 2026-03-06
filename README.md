@@ -21,7 +21,6 @@
  Learning AI/ML with LangChain , PyNum , and more on
  Youtube : @itsmesuraj20
 <!-- Deploying and maintaining production apps  -->
-
 </div>
 
 
