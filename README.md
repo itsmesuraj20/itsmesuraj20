@@ -18,7 +18,7 @@
  Building full-stack + DevOps + AI-enabled products  
  Prior freelance web development experience  
  Strengths: clean code, scalable architecture, deployment   automation  
- Learning AI/ML with LangChain , PyNum , and more on
+ <!-- Learning AI/ML with LangChain , PyNum , and more on -->
 <!-- Deploying and maintaining production apps  -->
 </div>
 
