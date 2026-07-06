@@ -9,7 +9,6 @@
 <div align="center">
 	
 ### WHAT I DO 
-
  DevOps Engineer @Genpact-Hyderabad
  1.7+ year backend development experience  
  Focus: Backend systems, Distributed systems, DevOps Pipelines  
