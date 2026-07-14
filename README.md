@@ -10,7 +10,7 @@
 	
 ### WHAT I DO 
  DevOps Engineer @Genpact-Hyderabad
- 1.7+ year backend development experience  
+ 1.10+ year backend development experience  
  Focus: Backend systems, Distributed systems, DevOps Pipelines  
  Learning: Go, Docker, Kubernetes, Kafka, System Design  
  Learning Tools : SAP BASIS , ABAP , GRC
