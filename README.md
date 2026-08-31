@@ -19,7 +19,6 @@
  <!-- Learning AI/ML with LangChain , PyNum , and more on -->
 <!-- Deploying and maintaining production apps  -->
 
-
 </div>
 
 <!--
