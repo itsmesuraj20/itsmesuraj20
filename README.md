@@ -8,7 +8,7 @@
 <div align="center">
 	
 ### WHAT I DO 
- Developer @Genpact - Hyderabad 
+ Software Developer @Genpact - Hyderabad 
  2+ year backend development experience  
  Focus: Backend systems, Distributed systems, DevOps Pipelines  
  Learning: Go, Docker, Kubernetes, Kafka, System Design  
