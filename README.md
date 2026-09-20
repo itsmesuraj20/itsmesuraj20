@@ -5,6 +5,8 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=itsmesuraj20)
 
 </div>
+
+<!--
 <div align="center">
 	
 ### WHAT I DO 
@@ -20,6 +22,8 @@
 <!-- Deploying and maintaining production apps  -->
 
 </div>
+
+
 
 <!--
 [![Thumbnail for Cover](https://github.com/user-attachments/assets/bd59d6cd-fa07-41eb-bbd5-be7572294a8a)](https://raw.githubusercontent.com/JawherKl/JawherKl/main/devTools.png)
