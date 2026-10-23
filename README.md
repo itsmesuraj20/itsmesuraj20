@@ -26,6 +26,7 @@
 
 
 <!--
+ ॐ नमः शिवाय
 राम राम
 Mera aapki kripa se sab kaam ho raha hai 
 [![Thumbnail for Cover](https://github.com/user-attachments/assets/bd59d6cd-fa07-41eb-bbd5-be7572294a8a)](https://raw.githubusercontent.com/JawherKl/JawherKl/main/devTools.png)
